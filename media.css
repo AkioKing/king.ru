@@ -1,0 +1,328 @@
+@media (max-width: 1025px){
+    /*headbar*/
+    .heads {      
+        width: 97.8%;
+    }
+    #lihead2{
+        margin-left: 120px;
+    }
+    #lihead3{
+        margin-left: 120px;
+    }
+    #lihead4{
+        margin-left: 120px;
+    }
+    /*content*/
+    #content1{
+        margin: 50px 50px;
+        width: 85%;
+        height: 700px;
+        background: rgba(0, 0, 0, 0.4);
+        border-radius: 15px;
+        border: 3px solid #ccc; 
+    }
+  }
+@media (max-width: 869px){
+    /*headbar*/
+    .heads {      
+        width: 97.5%;
+    }
+    #lihead2{
+        margin-left: 70px;
+    }
+    #lihead3{
+        margin-left: 70px;
+    }
+    #lihead4{
+        margin-left: 70px;
+    }
+    /*content*/
+    #content1{
+        margin: 50px 50px;
+        width: 82%;
+        height: 750px;
+        background: rgba(0, 0, 0, 0.4);
+        border-radius: 15px;
+        border: 3px solid #ccc; 
+    }
+}
+@media (max-width: 720px){
+    /*headbar*/
+    .heads {      
+        width: 97%;
+    }
+    #lihead2{
+        margin-left: 30px;
+    }
+    #lihead3{
+        margin-left: 40px;
+    }
+    #lihead4{
+        margin-left: 40px;
+    }
+    /*content*/
+    #content1{
+        width: 78%;
+    }
+  }
+@media (max-width: 600px){
+  /*headbar*/
+    #lihead2{
+      margin-left: 85px;
+  }
+  #lihead3{
+      margin-left: 85px;
+  }
+  #lihead4{
+    margin-left: 0px;
+    font-size: 36px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 4px 31% 4px 31%;
+    position: relative;
+    top: 20px;
+  }
+  #lihead5{
+    margin-left: 0px;
+    font-size: 36px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 4px 31% 4px 31%;
+    position: relative;
+    top: 20px;
+    left: 57px;
+}
+  /*content*/
+  #content1{
+    margin-top: 90px;
+    width: 73%;
+}
+}
+@media (max-width: 540px){
+    /*headbar*/
+    #lihead2{
+        margin-left: 20px;
+    }
+    #lihead3{
+        margin-left: 20px;
+    }
+    #lihead4{
+        margin-left: 20px;
+    }
+    /*content*/
+    #content1{
+        width: 71%;
+    }
+  }
+@media (max-width: 480px){
+    /*headsbar*/
+.heads {
+    text-align: center;
+    height: 0px;
+    border: 0px;
+}
+.headsul > li{
+    float: none;
+}
+
+#lihead1{
+    margin-left: 0px;
+    font-size: 36px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 4px 41% 4px 41%;
+    position: relative;
+    top: 2px;
+}
+
+#lihead2{
+    margin-left: 0px;
+    font-size: 36px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 4px 34% 4px 34%;
+    position: relative;
+    top: 2px;
+}
+#lihead3{
+    margin-left: 0px;
+    font-size: 36px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 4px 33% 4px 33%;
+    position: relative;
+    top: 2px;
+}
+#lihead4{
+    margin-left: 0px;
+    font-size: 36px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 4px 28% 4px 28%;
+    position: relative;
+    top: 2px;
+}
+#lihead5{
+    margin-left: 0px;
+    font-size: 36px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 4px 31% 4px 31%;
+    position: relative;
+    top: 2px;
+    left: -8px;
+}
+  /*content*/
+  #content1{
+    width: 69%;
+    margin-top: 270px;
+    height: 580px;
+}
+}
+@media (max-width: 375px){
+    /*headsbar*/
+.heads {
+    text-align: center;
+    height: 0px;
+    border: 0px;
+}
+.headsul > li{
+    float: none;
+}
+
+#lihead1{
+    margin-left: 0px;
+    font-size: 36px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 4px 35% 4px 35%;
+    position: relative;
+    top: 2px;
+}
+
+#lihead2{
+    margin-left: 0px;
+    font-size: 36px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 4px 29% 4px 29%;
+    position: relative;
+    top: 2px;
+}
+#lihead3{
+    margin-left: 0px;
+    font-size: 36px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 4px 29% 4px 29%;
+    position: relative;
+    top: 2px;
+}
+#lihead4{
+    margin-left: 0px;
+    font-size: 36px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 4px 22% 4px 22%;
+    position: relative;
+    top: 2px;
+}
+#lihead5{
+    margin-left: 0px;
+    font-size: 36px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 4px 27% 4px 27%;
+    position: relative;
+    top: 2px;
+    left: -5px;
+}
+  /*content*/
+  #content1{
+    width: 66%;
+    margin-top: 270px;
+    height: 580px;
+}
+}
+@media (max-width: 425px){
+    /*headsbar*/
+.heads {
+    text-align: center;
+    height: 0px;
+    border: 0px;
+}
+.headsul > li{
+    float: none;
+}
+
+#lihead1{
+    margin-left: 0px;
+    font-size: 36px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 4px 35% 4px 35%;
+    position: relative;
+    top: 0px;
+}
+
+#lihead2{
+    margin-left: 0px;
+    font-size: 36px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 4px 29% 4px 29%;
+    position: relative;
+    top: 2px;
+}
+#lihead3{
+    margin-left: 0px;
+    font-size: 36px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 4px 29% 4px 29%;
+    position: relative;
+    top: 2px;
+}
+#lihead4{
+    margin-left: 0px;
+    font-size: 36px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 4px 22% 4px 22%;
+    position: relative;
+    top: 2px;
+}
+#lihead5{
+    margin-left: 0px;
+    font-size: 36px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 4px 27% 4px 27%;
+    position: relative;
+    top: 2px;
+    left: -3px;
+}
+  /*content*/
+  #content1{
+    width: 66%;
+    margin-top: 270px;
+    height: 580px;
+}
+}
